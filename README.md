@@ -7,7 +7,7 @@ Patika'nın Node.js eğitimini takip ederek, öğrenmek adına oluşturduğum bi
 [Node.js](https://nodejs.org/en/)'i kullanmak için sitelerinden LTS versiyonlu engine'ı indirebilirsiniz.
 
 ## Neden LTS
-![LTS]("https://raw.githubusercontent.com/nodejs/Release/master/schedule.svg?sanitize=true") 
+![LTS]("./schedule.svg") 
 LTS açılım olarak Long Time Support yani, uzun zamanlı destek manasına gelir. Bu nedenle LTS versiyonu kullandığınızda Node.js'i yakın zamanda güncellemek zorunda kalmazsınız, oluşturduğunuz veya deployladığınız ürün bu şekilde günce kalmış ve bozulmamış olur.
 
 ## Usage
