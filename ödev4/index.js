@@ -15,10 +15,10 @@ readFile('employees.json', (err, data) => {
 //     console.log('Degistirildi')
 // })
 
-// mkdir('silinecek', { recursive: true }, (err) =>{
-//     if(err) throw err
-//     console.log('olusturuldu')
-// })
+mkdir('silinecek', { recursive: true }, (err) =>{
+    if(err) throw err
+    console.log('olusturuldu')
+})
 
 rmdir('silinecek', (err) =>{
     if(err) throw err
